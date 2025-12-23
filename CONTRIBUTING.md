@@ -17,3 +17,4 @@ Notes and usage details for Frontend-Interview.
 - fix a small wording issue
 - add a note about the defaults
 - clarify the setup steps
+- link the usage section
