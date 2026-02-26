@@ -1,6 +1,6 @@
 {
   "name": "frontend-interview",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "description": "\ud83e\udde9 \ud835\uddea\ud835\uddf6\ud835\uddf8\ud835\uddf6\ud835\uddd9\ud835\uddff\ud835\uddfc\ud835\uddfb\ud835\ude01 is a front-end interview question bank covering topics like React, Next.js, TypeScript, and more.",
   "main": "src/index.ts",
   "scripts": {
