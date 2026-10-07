@@ -28,3 +28,4 @@ Notes and usage details for Frontend-Interview.
 - link the usage section
 - clarify the setup steps
 - add a note about the defaults
+- link the usage section
